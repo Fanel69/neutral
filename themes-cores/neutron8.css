@@ -4,10 +4,10 @@
 @import url("https://xcruxiex.github.io/themes/core/hljs.css");
 
 :root {
-    --themeColor1: #36D1DC;
-    --themeColor2: #5B86E5;
+    --themeColor1: #6c2999;
+    --themeColor2: #7b1ac9;
     --font-display: var(--customFont);
-    --homeImage: url('https://imgur.com/eItxuAq.png');
+    --homeImage: url('https://i.imgur.com/FjpQAZZ.gif');
     --homeImageSize: cover;
     --backgroundColor: #0d0d0d;
     --backgroundImage: url('https://imgur.com/qhBghXt.png');
